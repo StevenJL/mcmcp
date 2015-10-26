@@ -1,4 +1,6 @@
-# Monte Carlo Markov Chain Poker Probabilities simulation
+### Monte Carlo Markov Chain Poker
+
+Calculate poker hand probabilities through simulation
 
 Build
 ```
